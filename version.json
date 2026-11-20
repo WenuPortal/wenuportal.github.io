@@ -1,20 +1,20 @@
 {
-  "version": "2.0",
+  "version": "2.2",
   "releaseDate": "20/11/2026",
-  "changelog": "En el Diagnóstico ahora se ve si tu sesión está guardada en el equipo. Corregido un texto encimado en «Sobre nosotros». Incluye la 1.99: la sesión queda guardada en el equipo, EXPLORAR como en Xuper y la descarga de la actualización con avance real.",
+  "changelog": "Nueva imagen: botones arriba con un cuadro que marca dónde estás y banner con «Ver ahora». La pestaña TV ahora muestra la guía directa (canales por horario). Mini-reproductor flotante para seguir viendo mientras usas el teléfono. Guía de canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). Zap por número de canal y el audio/subtítulos se recuerdan por canal. Carga más rápido y se arregló el desplazamiento en el Diagnóstico.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.0",
-    "code": 160,
+    "version": "2.2",
+    "code": 164,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "En el Diagnóstico ahora se ve si tu sesión está guardada en el equipo. Corregido un texto encimado en «Sobre nosotros». Incluye la 1.99: la sesión queda guardada en el equipo, EXPLORAR como en Xuper y la descarga de la actualización con avance real."
+    "notes": "Nueva imagen: botones arriba con un cuadro que marca dónde estás y banner con «Ver ahora». La pestaña TV ahora muestra la guía directa (canales por horario). Mini-reproductor flotante para seguir viendo mientras usas el teléfono. Guía de canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). Zap por número de canal y el audio/subtítulos se recuerdan por canal. Carga más rápido y se arregló el desplazamiento en el Diagnóstico."
   },
   "apk32": {
-    "version": "1.99",
-    "code": 161,
+    "version": "2.1",
+    "code": 165,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "En el Diagnóstico ahora se ve si tu sesión está guardada en el box. Corregido un texto encimado en «Sobre nosotros». Incluye la 1.98: la sesión queda guardada en el box, EXPLORAR como en Xuper y la descarga de la actualización con avance real."
+    "notes": "Nueva imagen: botones arriba con un cuadro que marca dónde estás y banner con «Ver ahora». La pestaña TV ahora muestra la guía directa (canales por horario). Guía de canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). Zap por número de canal y el audio/subtítulos se recuerdan por canal. Carga más rápido y se arregló el desplazamiento en el Diagnóstico."
   },
   "tv": {
     "version": "2.3.6",
