@@ -17,8 +17,8 @@
     "notes": "Logos de canales limpios, sin mezclarse con el logo de WenuTV. La guía ahora muestra el programa y el horario de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). La barra de horas queda fija al bajar en la guía. Arreglos en el Diagnóstico: muestra la versión correcta y avisa cuando la sesión está guardada."
   },
   "tv": {
-    "version": "2.3.6",
-    "notes": "Nuevo menú DEPORTES con pestañas Wenu, DirecTV/ESPN, Mundo y ★. Al adelantar o retroceder la barra ahora se mueve y muestra a dónde vas. Teclado de búsqueda nuevo con ñ, sugerencias y micrófono para dictar. Selección en amarillo más visible, textos en español y aviso si no hay espacio para descargar. En teles antiguas se activa solo un modo más liviano."
+    "version": "2.3.7",
+    "notes": "Menú arriba con marco en la pestaña activa y botón «Ver ahora» en el banner. En teles modernas: vista previa grande, lista de canales al lado y la programación abajo con las horas fijas; la previa sigue al canal que marcas y también anda con el puntero. La guía ahora muestra el programa de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). Zap por número: escribes el número y saltas al canal. Filas con número, programa, horario e insignia HD/4K. Diagnóstico que se desplaza con el control y muestra la versión real. En teles antiguas sigue el modo liviano de siempre."
   },
   "kodi": {
     "version": "1.1.6",
