@@ -1,20 +1,20 @@
 {
-  "version": "1.99",
+  "version": "2.0",
   "releaseDate": "20/11/2026",
-  "changelog": "La sesión queda guardada en el equipo: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más». La descarga de la actualización muestra el avance real, con porcentaje y MB, y al terminar puedes instalarla desde el mismo aviso.",
+  "changelog": "En el Diagnóstico ahora se ve si tu sesión está guardada en el equipo. Corregido un texto encimado en «Sobre nosotros». Incluye la 1.99: la sesión queda guardada en el equipo, EXPLORAR como en Xuper y la descarga de la actualización con avance real.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "1.99",
-    "code": 158,
+    "version": "2.0",
+    "code": 160,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "La sesión queda guardada en el equipo: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más». La descarga de la actualización muestra el avance real, con porcentaje y MB, y al terminar puedes instalarla desde el mismo aviso."
+    "notes": "En el Diagnóstico ahora se ve si tu sesión está guardada en el equipo. Corregido un texto encimado en «Sobre nosotros». Incluye la 1.99: la sesión queda guardada en el equipo, EXPLORAR como en Xuper y la descarga de la actualización con avance real."
   },
   "apk32": {
-    "version": "1.98",
-    "code": 159,
+    "version": "1.99",
+    "code": 161,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "La sesión queda guardada en el box: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más», todo con el control remoto. La descarga de la actualización muestra el avance real, con porcentaje y MB."
+    "notes": "En el Diagnóstico ahora se ve si tu sesión está guardada en el box. Corregido un texto encimado en «Sobre nosotros». Incluye la 1.98: la sesión queda guardada en el box, EXPLORAR como en Xuper y la descarga de la actualización con avance real."
   },
   "tv": {
     "version": "2.3.6",
