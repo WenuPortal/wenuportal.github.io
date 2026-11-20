@@ -1,0 +1,27 @@
+{
+  "version": "1.99",
+  "releaseDate": "20/11/2026",
+  "changelog": "La sesión queda guardada en el equipo: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más». La descarga de la actualización muestra el avance real, con porcentaje y MB, y al terminar puedes instalarla desde el mismo aviso.",
+  "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
+  "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
+  "apk": {
+    "version": "1.99",
+    "code": 158,
+    "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
+    "notes": "La sesión queda guardada en el equipo: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más». La descarga de la actualización muestra el avance real, con porcentaje y MB, y al terminar puedes instalarla desde el mismo aviso."
+  },
+  "apk32": {
+    "version": "1.98",
+    "code": 159,
+    "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
+    "notes": "La sesión queda guardada en el box: si el portal se cierra por unas horas, la app sigue andando. EXPLORAR ahora se ve como en Xuper: filas por plataforma con sus carátulas y el cuadro «Más», todo con el control remoto. La descarga de la actualización muestra el avance real, con porcentaje y MB."
+  },
+  "tv": {
+    "version": "2.3.6",
+    "notes": "Nuevo menú DEPORTES con pestañas Wenu, DirecTV/ESPN, Mundo y ★. Al adelantar o retroceder la barra ahora se mueve y muestra a dónde vas. Teclado de búsqueda nuevo con ñ, sugerencias y micrófono para dictar. Selección en amarillo más visible, textos en español y aviso si no hay espacio para descargar. En teles antiguas se activa solo un modo más liviano."
+  },
+  "kodi": {
+    "version": "1.1.6",
+    "notes": "«★ Favoritos» dentro de «TV en vivo»: muestra solo tus canales favoritos sin salir de ahí. Incluye la 1.1.5 (canales de DirecTV/ESPN)."
+  }
+}
