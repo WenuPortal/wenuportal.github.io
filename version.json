@@ -1,20 +1,20 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "releaseDate": "20/11/2026",
-  "changelog": "Nueva imagen: botones arriba con un cuadro que marca dónde estás y banner con «Ver ahora». La pestaña TV ahora muestra la guía directa (canales por horario). Mini-reproductor flotante para seguir viendo mientras usas el teléfono. Guía de canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). Zap por número de canal y el audio/subtítulos se recuerdan por canal. Carga más rápido y se arregló el desplazamiento en el Diagnóstico.",
+  "changelog": "Logos de canales limpios, sin mezclarse con el logo de WenuTV. La guía ahora muestra el programa y el horario de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). La barra de horas queda fija al bajar en la guía. El botón «Mini» ya no tapa el nombre del canal. Arreglos en el Diagnóstico: muestra la versión correcta y avisa cuando la sesión está guardada.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.2",
-    "code": 164,
+    "version": "2.3",
+    "code": 166,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Nueva imagen: botones arriba con un cuadro que marca dónde estás y banner con «Ver ahora». La pestaña TV ahora muestra la guía directa (canales por horario). Mini-reproductor flotante para seguir viendo mientras usas el teléfono. Guía de canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). Zap por número de canal y el audio/subtítulos se recuerdan por canal. Carga más rápido y se arregló el desplazamiento en el Diagnóstico."
+    "notes": "Logos de canales limpios, sin mezclarse con el logo de WenuTV. La guía ahora muestra el programa y el horario de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). La barra de horas queda fija al bajar en la guía. El botón «Mini» ya no tapa el nombre del canal. Arreglos en el Diagnóstico: muestra la versión correcta y avisa cuando la sesión está guardada."
   },
   "apk32": {
-    "version": "2.1",
-    "code": 165,
+    "version": "2.2",
+    "code": 167,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "Nueva imagen: botones arriba con un cuadro que marca dónde estás y banner con «Ver ahora». La pestaña TV ahora muestra la guía directa (canales por horario). Guía de canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). Zap por número de canal y el audio/subtítulos se recuerdan por canal. Carga más rápido y se arregló el desplazamiento en el Diagnóstico."
+    "notes": "Logos de canales limpios, sin mezclarse con el logo de WenuTV. La guía ahora muestra el programa y el horario de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). La barra de horas queda fija al bajar en la guía. Arreglos en el Diagnóstico: muestra la versión correcta y avisa cuando la sesión está guardada."
   },
   "tv": {
     "version": "2.3.6",
