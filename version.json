@@ -1,20 +1,20 @@
 {
-  "version": "2.3",
-  "releaseDate": "20/11/2026",
-  "changelog": "Logos de canales limpios, sin mezclarse con el logo de WenuTV. La guía ahora muestra el programa y el horario de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). La barra de horas queda fija al bajar en la guía. El botón «Mini» ya no tapa el nombre del canal. Arreglos en el Diagnóstico: muestra la versión correcta y avisa cuando la sesión está guardada.",
+  "version": "2.4.5",
+  "releaseDate": "21/11/2026",
+  "changelog": "Cuenta del portal opcional: al abrir puedes iniciar sesión con tu cuenta o seguir en anónimo, como siempre. Con tu cuenta, tus favoritos se sincronizan: aparecen en Mi lista y lo que marques se guarda en tu cuenta. En horizontal la guía se ve bien: la vista previa ya no se estira, la lista de canales queda alineada con la previa y la programación se puede desplazar hacia el costado para ver más horas.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.3",
-    "code": 166,
+    "version": "2.4.5",
+    "code": 174,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Logos de canales limpios, sin mezclarse con el logo de WenuTV. La guía ahora muestra el programa y el horario de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). La barra de horas queda fija al bajar en la guía. El botón «Mini» ya no tapa el nombre del canal. Arreglos en el Diagnóstico: muestra la versión correcta y avisa cuando la sesión está guardada."
+    "notes": "Cuenta del portal opcional: al abrir puedes iniciar sesión con tu cuenta o seguir en anónimo, como siempre. Con tu cuenta, tus favoritos se sincronizan: aparecen en Mi lista y lo que marques se guarda en tu cuenta. En horizontal la guía se ve bien: la vista previa ya no se estira, la lista de canales queda alineada con la previa y la programación se puede desplazar hacia el costado para ver más horas."
   },
   "apk32": {
-    "version": "2.2",
-    "code": 167,
+    "version": "2.4.5",
+    "code": 175,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "Logos de canales limpios, sin mezclarse con el logo de WenuTV. La guía ahora muestra el programa y el horario de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). La barra de horas queda fija al bajar en la guía. Arreglos en el Diagnóstico: muestra la versión correcta y avisa cuando la sesión está guardada."
+    "notes": "Cuenta del portal opcional: al abrir puedes iniciar sesión con tu cuenta o seguir en anónimo, como siempre. Con tu cuenta, tus favoritos se sincronizan: aparecen en Mi lista y lo que marques se guarda en tu cuenta. En horizontal la guía se ve bien: la vista previa ya no se estira, la lista de canales queda alineada con la previa y la programación se puede desplazar hacia el costado para ver más horas."
   },
   "tv": {
     "version": "2.3.7",
