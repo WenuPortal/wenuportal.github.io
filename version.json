@@ -1,20 +1,20 @@
 {
-  "version": "2.4.5",
-  "releaseDate": "21/11/2026",
-  "changelog": "Cuenta del portal opcional: al abrir puedes iniciar sesión con tu cuenta o seguir en anónimo, como siempre. Con tu cuenta, tus favoritos se sincronizan: aparecen en Mi lista y lo que marques se guarda en tu cuenta. En horizontal la guía se ve bien: la vista previa ya no se estira, la lista de canales queda alineada con la previa y la programación se puede desplazar hacia el costado para ver más horas.",
+  "version": "2.4.6",
+  "releaseDate": "22/11/2026",
+  "changelog": "Reproductor nuevo: los canales y películas que antes se escuchaban sin imagen ahora se ven, también en la vista previa de la guía y en la ficha. En horizontal la app usa todo el ancho de la pantalla, sin franjas a los lados. La guía suma listas por categoría (Chile, Cine, Series, Música, Noticias, Infantil y Favoritos) y la barra de horas queda fija arriba con la hora actual marcada. Al girar el teléfono ya no se pierde lo que estabas viendo. La ficha muestra director, actores y sinopsis, y las portadas de «Quizás te guste» se pueden desplazar con el dedo.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.4.5",
-    "code": 174,
+    "version": "2.4.6",
+    "code": 201,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Cuenta del portal opcional: al abrir puedes iniciar sesión con tu cuenta o seguir en anónimo, como siempre. Con tu cuenta, tus favoritos se sincronizan: aparecen en Mi lista y lo que marques se guarda en tu cuenta. En horizontal la guía se ve bien: la vista previa ya no se estira, la lista de canales queda alineada con la previa y la programación se puede desplazar hacia el costado para ver más horas."
+    "notes": "Reproductor nuevo: los canales y películas que antes se escuchaban sin imagen ahora se ven, también en la vista previa de la guía y en la ficha. En horizontal la app usa todo el ancho de la pantalla, sin franjas a los lados. La guía suma listas por categoría (Chile, Cine, Series, Música, Noticias, Infantil y Favoritos) y la barra de horas queda fija arriba con la hora actual marcada. Al girar el teléfono ya no se pierde lo que estabas viendo. La ficha muestra director, actores y sinopsis, y las portadas de «Quizás te guste» se pueden desplazar con el dedo."
   },
   "apk32": {
-    "version": "2.4.5",
-    "code": 175,
+    "version": "2.4.6",
+    "code": 202,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "Cuenta del portal opcional: al abrir puedes iniciar sesión con tu cuenta o seguir en anónimo, como siempre. Con tu cuenta, tus favoritos se sincronizan: aparecen en Mi lista y lo que marques se guarda en tu cuenta. En horizontal la guía se ve bien: la vista previa ya no se estira, la lista de canales queda alineada con la previa y la programación se puede desplazar hacia el costado para ver más horas."
+    "notes": "Reproductor nuevo: los canales y películas que antes se escuchaban sin imagen ahora se ven, también en la vista previa de la guía y en la ficha. En horizontal la app usa todo el ancho de la pantalla, sin franjas a los lados. La guía suma listas por categoría (Chile, Cine, Series, Música, Noticias, Infantil y Favoritos) y la barra de horas queda fija arriba con la hora actual marcada. Al girar el teléfono ya no se pierde lo que estabas viendo. La ficha muestra director, actores y sinopsis, y las portadas de «Quizás te guste» se pueden desplazar con el dedo."
   },
   "tv": {
     "version": "2.3.7",
