@@ -17,8 +17,8 @@
     "notes": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa."
   },
   "tv": {
-    "version": "2.3.7",
-    "notes": "Menú arriba con marco en la pestaña activa y botón «Ver ahora» en el banner. En teles modernas: vista previa grande, lista de canales al lado y la programación abajo con las horas fijas; la previa sigue al canal que marcas y también anda con el puntero. La guía ahora muestra el programa de los canales chilenos (TVN, Canal 13, Chilevisión, Mega y La Red). Zap por número: escribes el número y saltas al canal. Filas con número, programa, horario e insignia HD/4K. Diagnóstico que se desplaza con el control y muestra la versión real. En teles antiguas sigue el modo liviano de siempre."
+    "version": "2.3.8",
+    "notes": "La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal y tus favoritos sincronizados. El banner cambia el título junto con la portada. Al buscar, tus búsquedas recientes salen primero en las sugerencias. El Diagnóstico muestra la información completa."
   },
   "kodi": {
     "version": "1.1.6",
