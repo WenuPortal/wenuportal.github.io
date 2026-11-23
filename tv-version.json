@@ -1,1 +1,8 @@
-{"changelog":"La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal y tus favoritos sincronizados. El banner cambia el título junto con la portada. Al buscar, tus búsquedas recientes salen primero en las sugerencias. El Diagnóstico muestra la información completa.","ipkUrl":"https://gitlab.com/api/v4/projects/88748682/packages/generic/wenutv/2.3.8/WenuTV-TV-LG.ipk","releaseDate":"23/11/2026","sha256":"176d19bb5b8e32827e48e39a3f570edd15127fd4371ec91b4110556cc5cf9002","size":6217622,"version":"2.3.8"}
+{
+  "changelog": "La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal y tus favoritos sincronizados. El banner cambia el título junto con la portada. Al buscar, tus búsquedas recientes salen primero en las sugerencias. El Diagnóstico muestra la información completa.",
+  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.8/WenuTV-TV-LG.ipk",
+  "releaseDate": "23/11/2026",
+  "sha256": "176d19bb5b8e32827e48e39a3f570edd15127fd4371ec91b4110556cc5cf9002",
+  "size": 6217622,
+  "version": "2.3.8"
+}

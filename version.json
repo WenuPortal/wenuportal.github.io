@@ -2,18 +2,18 @@
   "version": "2.4.7",
   "releaseDate": "23/11/2026",
   "changelog": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa.",
-  "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-  "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
+  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.7/WenuTV-Android.apk",
+  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.8/WenuTV-TV-LG.ipk",
   "apk": {
     "version": "2.4.7",
     "code": 217,
-    "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.7/WenuTV-Android.apk",
     "notes": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa."
   },
   "apk32": {
     "version": "2.4.7",
     "code": 218,
-    "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.7/WenuTV-Android-TV.apk",
     "notes": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa."
   },
   "tv": {
@@ -23,5 +23,6 @@
   "kodi": {
     "version": "1.1.6",
     "notes": "«★ Favoritos» dentro de «TV en vivo»: muestra solo tus canales favoritos sin salir de ahí. Incluye la 1.1.5 (canales de DirecTV/ESPN)."
-  }
+  },
+  "apkUrl32": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.7/WenuTV-Android-TV.apk"
 }
