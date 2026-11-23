@@ -1,20 +1,20 @@
 {
-  "version": "2.4.6",
-  "releaseDate": "22/11/2026",
-  "changelog": "Reproductor nuevo: los canales y películas que antes se escuchaban sin imagen ahora se ven, también en la vista previa de la guía y en la ficha. En horizontal la app usa todo el ancho de la pantalla, sin franjas a los lados. La guía suma listas por categoría (Chile, Cine, Series, Música, Noticias, Infantil y Favoritos) y la barra de horas queda fija arriba con la hora actual marcada. Al girar el teléfono ya no se pierde lo que estabas viendo. La ficha muestra director, actores y sinopsis, y las portadas de «Quizás te guste» se pueden desplazar con el dedo.",
+  "version": "2.4.7",
+  "releaseDate": "23/11/2026",
+  "changelog": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa.",
   "apkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
   "ipkUrl": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.4.6",
-    "code": 201,
+    "version": "2.4.7",
+    "code": 217,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android.apk",
-    "notes": "Reproductor nuevo: los canales y películas que antes se escuchaban sin imagen ahora se ven, también en la vista previa de la guía y en la ficha. En horizontal la app usa todo el ancho de la pantalla, sin franjas a los lados. La guía suma listas por categoría (Chile, Cine, Series, Música, Noticias, Infantil y Favoritos) y la barra de horas queda fija arriba con la hora actual marcada. Al girar el teléfono ya no se pierde lo que estabas viendo. La ficha muestra director, actores y sinopsis, y las portadas de «Quizás te guste» se pueden desplazar con el dedo."
+    "notes": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa."
   },
   "apk32": {
-    "version": "2.4.6",
-    "code": 202,
+    "version": "2.4.7",
+    "code": 218,
     "url": "https://gitlab.com/projectdev9205846/wenutv/-/releases/permalink/latest/downloads/WenuTV-Android-TV.apk",
-    "notes": "Reproductor nuevo: los canales y películas que antes se escuchaban sin imagen ahora se ven, también en la vista previa de la guía y en la ficha. En horizontal la app usa todo el ancho de la pantalla, sin franjas a los lados. La guía suma listas por categoría (Chile, Cine, Series, Música, Noticias, Infantil y Favoritos) y la barra de horas queda fija arriba con la hora actual marcada. Al girar el teléfono ya no se pierde lo que estabas viendo. La ficha muestra director, actores y sinopsis, y las portadas de «Quizás te guste» se pueden desplazar con el dedo."
+    "notes": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa."
   },
   "tv": {
     "version": "2.3.7",
