@@ -1,20 +1,20 @@
 {
-  "version": "2.4.7",
-  "releaseDate": "23/11/2026",
-  "changelog": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa.",
-  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.7/WenuTV-Android.apk",
+  "version": "2.4.8",
+  "releaseDate": "24/11/2026",
+  "changelog": "La app se recupera sola en la mañana: si el servidor rechaza la sesión, rota las semillas y reintenta solo; si se traba de verdad, reinicia su identidad automáticamente sin borrar tu cuenta. Al cambiar de canal reusa la última semilla que funcionó y si el vivo falla se ve un mensaje amable mientras reconecta. Incluye todo lo de la 2.4.7: transmitir a la TV, crear cuenta, buscador más grande con sugerencias, sesión que se mantiene sola, banner con el título de la portada y Diagnóstico completo.",
+  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android.apk",
   "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.8/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.4.7",
-    "code": 217,
-    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.7/WenuTV-Android.apk",
-    "notes": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa."
+    "version": "2.4.8",
+    "code": 227,
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android.apk",
+    "notes": "La app se recupera sola en la mañana: si el servidor rechaza la sesión, rota las semillas y reintenta solo; si se traba de verdad, reinicia su identidad automáticamente sin borrar tu cuenta. Al cambiar de canal reusa la última semilla que funcionó y si el vivo falla se ve un mensaje amable mientras reconecta. Incluye todo lo de la 2.4.7: transmitir a la TV, crear cuenta, buscador más grande con sugerencias, sesión que se mantiene sola, banner con el título de la portada y Diagnóstico completo."
   },
   "apk32": {
-    "version": "2.4.7",
-    "code": 218,
-    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.7/WenuTV-Android-TV.apk",
-    "notes": "Transmitir a la TV: desde el celular mandas el canal o la película a tu tele (Samsung, LG y otras) o al box, y el teléfono queda libre. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal. Buscador más grande: teclados con cajitas, como el del teléfono, y sugerencias mientras escribes. La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. El banner cambia el título junto con la portada, el slogan se ve más grande y el Diagnóstico muestra la información completa."
+    "version": "2.4.8",
+    "code": 228,
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android-TV.apk",
+    "notes": "La app se recupera sola en la mañana: si el servidor rechaza la sesión, rota las semillas y reintenta solo; si se traba de verdad, reinicia su identidad automáticamente sin borrar tu cuenta. Al cambiar de canal reusa la última semilla que funcionó y si el vivo falla se ve un mensaje amable mientras reconecta. Incluye todo lo de la 2.4.7: transmitir a la TV, crear cuenta, buscador más grande con sugerencias, sesión que se mantiene sola, banner con el título de la portada y Diagnóstico completo."
   },
   "tv": {
     "version": "2.3.8",
@@ -24,5 +24,5 @@
     "version": "1.1.6",
     "notes": "«★ Favoritos» dentro de «TV en vivo»: muestra solo tus canales favoritos sin salir de ahí. Incluye la 1.1.5 (canales de DirecTV/ESPN)."
   },
-  "apkUrl32": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.7/WenuTV-Android-TV.apk"
+  "apkUrl32": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android-TV.apk"
 }
