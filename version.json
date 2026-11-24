@@ -6,7 +6,7 @@
   "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.9/WenuTV-TV-LG.ipk",
   "apk": {
     "version": "2.4.8",
-    "code": 227,
+    "code": 229,
     "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android.apk",
     "notes": "La app se recupera sola en la mañana: si el servidor rechaza la sesión, rota las semillas y reintenta solo; si se traba de verdad, reinicia su identidad automáticamente sin borrar tu cuenta. Al cambiar de canal reusa la última semilla que funcionó y si el vivo falla se ve un mensaje amable mientras reconecta. Incluye todo lo de la 2.4.7: transmitir a la TV, crear cuenta, buscador más grande con sugerencias, sesión que se mantiene sola, banner con el título de la portada y Diagnóstico completo."
   },
