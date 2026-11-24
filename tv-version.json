@@ -1,8 +1,8 @@
 {
-  "changelog": "La sesión se mantiene sola: la app guarda tu equipo y lo renueva sin pedirte nada, para entrar sin cortes en la mañana. Crear cuenta: la pantalla de inicio ofrece crear cuenta, iniciar sesión o entrar como anónimo, con la misma cuenta del portal y tus favoritos sincronizados. El banner cambia el título junto con la portada. Al buscar, tus búsquedas recientes salen primero en las sugerencias. El Diagnóstico muestra la información completa.",
-  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.8/WenuTV-TV-LG.ipk",
-  "releaseDate": "23/11/2026",
-  "sha256": "176d19bb5b8e32827e48e39a3f570edd15127fd4371ec91b4110556cc5cf9002",
-  "size": 6217622,
-  "version": "2.3.8"
+  "changelog": "La TV ya no pierde la sesión en la mañana: si el portal limita las altas nuevas, la app avisa al inicio y reintenta sola cada 15 minutos sin borrar tu cuenta. El Explorador ahora muestra las filas por plataforma con pósters, como en el celular. Pasar de la previa a pantalla completa ya no recarga el canal. Con el control, la previa sigue al canal; con el puntero, pasar por encima solo mueve el resaltado. El Diagnóstico muestra si está esperando al portal, el portal adoptado y los dominios (DCS).",
+  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.9/WenuTV-TV-LG.ipk",
+  "releaseDate": "24/11/2026",
+  "sha256": "8b43c96734c5f97c0e6ee6298f27cea64fe6df9b61bc91a8ec4557260ea86d90",
+  "size": 6231108,
+  "version": "2.3.9"
 }
