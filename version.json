@@ -1,20 +1,20 @@
 {
-  "version": "2.4.8",
-  "releaseDate": "24/11/2026",
-  "changelog": "La app se recupera sola en la mañana: si el servidor rechaza la sesión, rota las semillas y reintenta solo; si se traba de verdad, reinicia su identidad automáticamente sin borrar tu cuenta. Al cambiar de canal reusa la última semilla que funcionó y si el vivo falla se ve un mensaje amable mientras reconecta. Incluye todo lo de la 2.4.7: transmitir a la TV, crear cuenta, buscador más grande con sugerencias, sesión que se mantiene sola, banner con el título de la portada y Diagnóstico completo.",
-  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android.apk",
+  "version": "2.4.9",
+  "releaseDate": "25/11/2026",
+  "changelog": "Nuevo buscador de canales dentro de la guía: escribes y la lista se filtra al momento, con la previa sonando. Transmitir a la TV corregido: algunos canales daban error en la TV aunque en el celular se veían bien; ahora la transmisión sale con la dirección correcta del canal.",
+  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.9/WenuTV-Android.apk",
   "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.9/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.4.8",
-    "code": 229,
-    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android.apk",
-    "notes": "La app se recupera sola en la mañana: si el servidor rechaza la sesión, rota las semillas y reintenta solo; si se traba de verdad, reinicia su identidad automáticamente sin borrar tu cuenta. Al cambiar de canal reusa la última semilla que funcionó y si el vivo falla se ve un mensaje amable mientras reconecta. Incluye todo lo de la 2.4.7: transmitir a la TV, crear cuenta, buscador más grande con sugerencias, sesión que se mantiene sola, banner con el título de la portada y Diagnóstico completo."
+    "version": "2.4.9",
+    "code": 245,
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.9/WenuTV-Android.apk",
+    "notes": "Nuevo buscador de canales dentro de la guía: escribes y la lista se filtra al momento, con la previa sonando. Transmitir a la TV corregido: algunos canales daban error en la TV aunque en el celular se veían bien; ahora la transmisión sale con la dirección correcta del canal."
   },
   "apk32": {
-    "version": "2.4.8",
-    "code": 228,
-    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android-TV.apk",
-    "notes": "La app se recupera sola en la mañana: si el servidor rechaza la sesión, rota las semillas y reintenta solo; si se traba de verdad, reinicia su identidad automáticamente sin borrar tu cuenta. Al cambiar de canal reusa la última semilla que funcionó y si el vivo falla se ve un mensaje amable mientras reconecta. Incluye todo lo de la 2.4.7: transmitir a la TV, crear cuenta, buscador más grande con sugerencias, sesión que se mantiene sola, banner con el título de la portada y Diagnóstico completo."
+    "version": "2.4.9",
+    "code": 233,
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.9/WenuTV-Android-TV.apk",
+    "notes": "Apariencia nueva parecida a la de la TV LG, sin quitar nada. Menú principal circular: al llegar al final vuelves al principio. La navegación vuelve siempre a tu lugar y ya se puede llegar a la búsqueda de canales con el control. Pasar de la previa a pantalla completa ya no recarga el canal. Incluye el buscador de canales en la guía."
   },
   "tv": {
     "version": "2.3.9",
@@ -24,5 +24,5 @@
     "version": "1.1.7",
     "notes": "El catálogo ahora se guarda en el equipo y aparece al tiro aunque el portal esté lento en la mañana. Si el servidor rechaza la sesión, rota las semillas solo y muestra un mensaje amable mientras reconecta. Nueva opción Limpiar caché en Configuración."
   },
-  "apkUrl32": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.8/WenuTV-Android-TV.apk"
+  "apkUrl32": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.9/WenuTV-Android-TV.apk"
 }
