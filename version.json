@@ -3,7 +3,7 @@
   "releaseDate": "26/11/2026",
   "changelog": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana.",
   "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.10/WenuTV-Android.apk",
-  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.12/WenuTV-TV-LG.ipk",
+  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.13/WenuTV-TV-LG.ipk",
   "apk": {
     "version": "2.4.10",
     "code": 250,
@@ -17,8 +17,8 @@
     "notes": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
   },
   "tv": {
-    "version": "2.3.12",
-    "notes": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
+    "version": "2.3.13",
+    "notes": "Las películas que partían con la pantalla negra en algunas TV ahora se reintentan solas en modo compatible y con otra calidad, hasta dar imagen."
   },
   "kodi": {
     "version": "1.1.8",
