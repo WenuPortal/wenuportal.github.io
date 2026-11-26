@@ -1,28 +1,28 @@
 {
-  "version": "2.4.9",
-  "releaseDate": "25/11/2026",
-  "changelog": "Nuevo buscador de canales dentro de la guía: escribes y la lista se filtra al momento, con la previa sonando. Transmitir a la TV corregido: algunos canales daban error en la TV aunque en el celular se veían bien; ahora la transmisión sale con la dirección correcta del canal.",
-  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.9/WenuTV-Android.apk",
-  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.9/WenuTV-TV-LG.ipk",
+  "version": "2.4.10",
+  "releaseDate": "26/11/2026",
+  "changelog": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana.",
+  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.10/WenuTV-Android.apk",
+  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.12/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.4.9",
-    "code": 245,
-    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.9/WenuTV-Android.apk",
-    "notes": "Nuevo buscador de canales dentro de la guía: escribes y la lista se filtra al momento, con la previa sonando. Transmitir a la TV corregido: algunos canales daban error en la TV aunque en el celular se veían bien; ahora la transmisión sale con la dirección correcta del canal."
+    "version": "2.4.10",
+    "code": 250,
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.10/WenuTV-Android.apk",
+    "notes": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
   },
   "apk32": {
-    "version": "2.4.9",
-    "code": 233,
-    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.9/WenuTV-Android-TV.apk",
-    "notes": "Apariencia nueva parecida a la de la TV LG, sin quitar nada. Menú principal circular: al llegar al final vuelves al principio. La navegación vuelve siempre a tu lugar y ya se puede llegar a la búsqueda de canales con el control. Pasar de la previa a pantalla completa ya no recarga el canal. Incluye el buscador de canales en la guía."
+    "version": "2.4.10",
+    "code": 234,
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.10/WenuTV-Android-TV.apk",
+    "notes": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
   },
   "tv": {
-    "version": "2.3.11",
-    "notes": "Los canales en vivo que se pegaban ahora se recuperan solos, sin volver a elegirlos. En la guía, las flechas solo mueven el foco y el canal cambia con OK. La guía trae todas las categorías y un buscador de canales que se usa con el control. Las películas ya no aparecen como series. El menú principal es circular. Si un canal se escucha pero no se ve en tu TV, la app prueba sola una ruta compatible. El Diagnóstico muestra el conteo real de canales y el estado de las llamadas al portal."
+    "version": "2.3.12",
+    "notes": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
   },
   "kodi": {
-    "version": "1.1.7",
-    "notes": "El catálogo ahora se guarda en el equipo y aparece al tiro aunque el portal esté lento en la mañana. Si el servidor rechaza la sesión, rota las semillas solo y muestra un mensaje amable mientras reconecta. Nueva opción Limpiar caché en Configuración."
+    "version": "1.1.8",
+    "notes": "Se reparó la conexión con el portal: el addon vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
   },
-  "apkUrl32": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.9/WenuTV-Android-TV.apk"
+  "apkUrl32": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.10/WenuTV-Android-TV.apk"
 }
