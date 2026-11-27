@@ -3,7 +3,7 @@
   "releaseDate": "26/11/2026",
   "changelog": "Nuevo Catálogo Completo: 35.498 títulos para recorrer por letra, con las series y todas sus temporadas unidas, y búsqueda que también busca en vivo si un título no está en la lista.",
   "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.11/WenuTV-Android.apk",
-  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.13/WenuTV-TV-LG.ipk",
+  "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.14/WenuTV-TV-LG.ipk",
   "apk": {
     "version": "2.4.11",
     "code": 255,
@@ -17,8 +17,8 @@
     "notes": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
   },
   "tv": {
-    "version": "2.3.13",
-    "notes": "Las películas que partían con la pantalla negra en algunas TV ahora se reintentan solas en modo compatible y con otra calidad, hasta dar imagen."
+    "version": "2.3.14",
+    "notes": "Llega el Catálogo Completo con miles de películas y series para explorar, se arregla que la app mostrara una versión antigua tras actualizar, y los canales en vivo ya no repiten escenas cuando la señal retrocede."
   },
   "kodi": {
     "version": "1.1.8",
