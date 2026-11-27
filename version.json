@@ -12,7 +12,7 @@
   },
   "apk32": {
     "version": "2.4.10",
-    "code": 234,
+    "code": 235,
     "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.10/WenuTV-Android-TV.apk",
     "notes": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
   },
