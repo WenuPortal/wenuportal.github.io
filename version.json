@@ -1,14 +1,14 @@
 {
-  "version": "2.4.10",
+  "version": "2.4.11",
   "releaseDate": "26/11/2026",
-  "changelog": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana.",
-  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.10/WenuTV-Android.apk",
+  "changelog": "Nuevo Catálogo Completo: 35.498 títulos para recorrer por letra, con las series y todas sus temporadas unidas, y búsqueda que también busca en vivo si un título no está en la lista.",
+  "apkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.11/WenuTV-Android.apk",
   "ipkUrl": "https://github.com/WenuPortal/WenuTV/releases/download/tv-v2.3.13/WenuTV-TV-LG.ipk",
   "apk": {
-    "version": "2.4.10",
-    "code": 250,
-    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.10/WenuTV-Android.apk",
-    "notes": "Se reparó la conexión con el portal: la app vuelve a entrar y a cargar todo a cualquier hora, también en la mañana."
+    "version": "2.4.11",
+    "code": 255,
+    "url": "https://github.com/WenuPortal/WenuTV/releases/download/v2.4.11/WenuTV-Android.apk",
+    "notes": "Nuevo Catálogo Completo: 35.498 títulos para recorrer por letra, con las series y todas sus temporadas unidas, y búsqueda que también busca en vivo si un título no está en la lista."
   },
   "apk32": {
     "version": "2.4.10",
